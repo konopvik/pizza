@@ -1,0 +1,216 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNW1yQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--833d13b94eed1d2db4d7352bafa12f2f06b4c670%2Fblob&w=3840&q=75",
+    "title": "Americana",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 200,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXFyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--dc587522749ffcb1f5051d71bb37141297c0dcfc%2Fblob&w=3840&q=75",
+    "title": "Capriciosa",
+    "types": [
+      0
+    ],
+    "sizes": [
+      26,
+      40
+    ],
+    "price": 200,
+    "category": 0,
+    "rating": 6
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXVyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--dd1459cfbc996bd5ff9adf9954d2641c1c49abcc%2Fblob&w=3840&q=75",
+    "title": "Hawai",
+    "types": [
+      0
+    ],
+    "sizes": [
+      26,
+      40
+    ],
+    "price": 295,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXlyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--515996f603024e9d04dff0a901ac69583f4d4520%2Fblob&w=3840&q=75",
+    "title": "Houbova",
+    "types": [
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 275,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTJyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--8eabdbcd8581751b5cbfbd55ee9897d4a405a9cf%2Fblob&w=3840&q=75",
+    "title": "Margherita",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 215,
+    "category": 3,
+    "rating": 8
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTZyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--6ff1d45d70b0ff17eaf3e590af95c4ff18c2d187%2Fblob&w=3840&q=75",
+    "title": "Olivova",
+    "types": [
+      0
+    ],
+    "sizes": [
+      30,
+      40
+    ],
+    "price": 250,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNStyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--9c6464f563209cefc1a58da550cf8e0fc9ceb374%2Fblob&w=3840&q=75",
+    "title": "Pepperoni",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 230,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkNyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--e028ba423f8a826504a59dd9d083b8072399c849%2Fblob&w=3840&q=75",
+    "title": "Picante",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 270,
+    "category": 4,
+    "rating": 10
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkdyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--fb80722b6353b05d97c96e53cea3df636d1ef4e1%2Fblob&w=3840&q=75",
+    "title": "Salamova",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 240,
+    "category": 5,
+    "rating": 10
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNktyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--fb500e76bca9fbebd9349fd3e4e08fc90cffd25a%2Fblob&w=3840&q=75",
+    "title": "Sicilska",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 285,
+    "category": 5,
+    "rating": 7
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNk9yQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--fd78621e3681ea591198ffe34592927652730c33%2Fblob&w=3840&q=75",
+    "title": "Slaninova",
+    "types": [
+      0,
+      1
+    ],
+    "sizes": [
+      26,
+      30,
+      40
+    ],
+    "price": 265,
+    "category": 5,
+    "rating": 7
+  },
+  {
+  "id": 11,
+  "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0dyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--d36b0bb073e95942606c282d47619e8d5b5d43cb%2Fblob&w=3840&q=75",
+  "title": "Syrova",
+  "types": [
+    0,
+    1
+  ],
+  "sizes": [
+    26,
+    30,
+    40
+  ],
+  "price": 235,
+  "category": 2,
+  "rating": 6
+},
+  {
+  "id": 12,
+  "imageUrl": "https://www.turbopizza.cz/_next/image?url=https%3A%2F%2Fcdn.speedlo.cloud%2Frails%2Factive_storage%2Fblobs%2Fproxy%2FeyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0tyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--fcca3e5bbad6ad399c1ff6faee5d970b1479e638%2Fblob&w=3840&q=75",
+  "title": "Vegetariana",
+  "types": [
+    0,
+    1
+  ],
+  "sizes": [
+    26,
+    30,
+    40
+  ],
+  "price": 300,
+  "category": 3,
+  "rating": 7
+}
+]
