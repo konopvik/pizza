@@ -1,16 +1,17 @@
 import React from "react";
 
+export const categories = [
+    "All",
+    "Meat",
+    "Vegetarian",
+    "Grill",
+    "Spicy",
+    "Covered",
+]
 
 function Categories({ value, onChangeCategory }) {
 
-    const categories = [
-        "All",
-        "Meat",
-        "Vegetarian",
-        "Grill",
-        "Spicy",
-        "Covered"
-    ]
+
 
     return (
         <div className="categories">
